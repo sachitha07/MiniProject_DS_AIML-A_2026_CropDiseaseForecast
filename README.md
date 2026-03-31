@@ -38,7 +38,7 @@ Farmers in India and other agricultural regions face unpredictable crop disease 
 
 | Tool | Purpose |
 |---|---|
-| Python 3.x | Core programming language |
+| Python | Core programming language |
 | Pandas | Data manipulation and cleaning |
 | NumPy | Numerical computations |
 | Matplotlib & Seaborn | Data visualization |
@@ -68,6 +68,12 @@ Farmers in India and other agricultural regions face unpredictable crop disease 
 |---|---|---|
 | Akalya Tamilvel Senbakam | Data collection, EDA, Visualization | [@akalyatamilvel](https://github.com/) |
 | Sachitha Ravichandran | Preprocessing, Model development, Report | [@sachitha07](https://github.com/) |
+
+---
+
+## Project Workflow
+
+Dataset Collection → Data Cleaning → EDA → Visualization → Model Building → Results → Conclusion
 
 ---
 
